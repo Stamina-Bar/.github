@@ -1,4 +1,4 @@
-# Welcome to Stamina Bar app for Apple Watch 
+# Welcome to Stamina Bar for Apple Watch 
 
 <img align="right" alt="GIF" src="https://github.com/hesbryce/Stamina-Bar/blob/main/stamina_bar_white_nobg.png" width="30%" />
 
