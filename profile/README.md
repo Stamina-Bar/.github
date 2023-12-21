@@ -1,6 +1,6 @@
 # Welcome to Stamina Bar for Apple Watch 
 
-<img align="right" alt="GIF" src="https://github.com/hesbryce/Stamina-Bar/blob/main/stamina_bar_white_nobg.png" width="30%" />
+<img align="right" alt="GIF" src="https://github.com/hesbryce/hesbryce/blob/main/stamina_bar_white_nobg2.png" width="30%" />
 
 Stamina Bar mainstreams how Apple Watch users leverage health data to optimize their mental and physical health goals. 
 
